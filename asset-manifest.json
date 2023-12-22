@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/resleri/static/css/main.d0198347.css",
-    "main.js": "/resleri/static/js/main.fbfe131d.js",
+    "main.js": "/resleri/static/js/main.8e21bf05.js",
     "static/js/787.df81234e.chunk.js": "/resleri/static/js/787.df81234e.chunk.js",
     "index.html": "/resleri/index.html",
     "main.d0198347.css.map": "/resleri/static/css/main.d0198347.css.map",
-    "main.fbfe131d.js.map": "/resleri/static/js/main.fbfe131d.js.map",
+    "main.8e21bf05.js.map": "/resleri/static/js/main.8e21bf05.js.map",
     "787.df81234e.chunk.js.map": "/resleri/static/js/787.df81234e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d0198347.css",
-    "static/js/main.fbfe131d.js"
+    "static/js/main.8e21bf05.js"
   ]
 }
